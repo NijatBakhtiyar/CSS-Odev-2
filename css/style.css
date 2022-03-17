@@ -1,0 +1,145 @@
+/* ====  Header Start ====  */
+header {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ====  Main  Start ====  */
+main {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(190, 188, 188);
+  text-align: center;
+}
+.search-engine-info {
+  margin: 0px;
+  padding: 5px 0px;
+}
+.input-text-area {
+  width: 300px;
+  float: none;
+  display: block;
+  clear: both;
+  margin: 0px auto;
+}
+.card-design {
+  width: 80%;
+  margin: 2px auto;
+}
+
+.card1 {
+  width: 400px;
+  height: 70px;
+  padding-top: 15px;
+  margin-right: 3px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 16px;
+  float: left;
+}
+
+.card2 {
+  width: 220px;
+  height: 75px;
+  padding-top: 10px;
+  margin-right: 3px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 12px;
+  float: left;
+}
+
+.card3 {
+  width: 454px;
+  height: 80px;
+  margin-left: 0px;
+  padding-top: 5px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 12px;
+  float: left;
+}
+
+a {
+  padding: 0px;
+  margin: 0px;
+}
+
+.copyright {
+  display: inline-block;
+  margin-left: 40%;
+}
+header {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.search-engine {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(190, 188, 188);
+  text-align: center;
+}
+.search-engine-info {
+  margin: 0px;
+  padding: 5px 0px;
+}
+.input-text-area {
+  width: 300px;
+  float: none;
+  display: block;
+  clear: both;
+  margin: 0px auto;
+}
+.card-design {
+  width: 80%;
+  margin: 2px auto;
+}
+
+.card1 {
+  width: 400px;
+  height: 70px;
+  padding-top: 15px;
+  margin-right: 3px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 16px;
+  float: left;
+}
+
+.card2 {
+  width: 220px;
+  height: 75px;
+  padding-top: 10px;
+  margin-right: 3px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 12px;
+  float: left;
+}
+
+.card3 {
+  width: 454px;
+  height: 80px;
+  margin-left: 0px;
+  padding-top: 5px;
+  text-align: center;
+  background-color: #70ccc2;
+  font-size: 12px;
+  float: left;
+}
+
+a {
+  padding: 0px;
+  margin: 0px;
+}
+
+.copyright {
+  display: inline-block;
+  margin-left: 40%;
+}
